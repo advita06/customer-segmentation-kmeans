@@ -54,8 +54,6 @@ The Elbow Method was used to determine a suitable number of clusters by calculat
 
 Based on the elbow plot, **4 clusters** were selected for the final model.
 
-*Add your Elbow Method graph here.*
-
 ## Model Configuration
 
 The K-Means model was configured with the following parameters:
@@ -73,8 +71,6 @@ A scatter plot was created to visualize the customer segments using:
 - **X-axis:** Annual Income (k$)
 - **Y-axis:** Spending Score (1-100)
 - **Colors:** Different cluster assignments
-
-*Add your final K-Means cluster visualization here.*
 
 ## Cluster Analysis
 
