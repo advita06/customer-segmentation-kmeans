@@ -148,7 +148,7 @@ The resulting groups illustrate different combinations of customer demographics,
 
 ## Dataset Source
 
-Kaggle — Mall Customers Dataset: [Add your original dataset URL here]
+Kaggle — Mall Customers Dataset
 
 ## Disclaimer
 
